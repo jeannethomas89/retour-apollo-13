@@ -11,12 +11,7 @@ J'ai utilisé la méthode d'Euler afin de simuler numériquement la trajectoire 
 J'ai comparé la méthode de Heun à la méthode d’Euler pour une orbite géostationnaire en calculant l’erreur de troncature locale.
 
 J'ai implémenté la méthode de Heun pour un vaisseau spatial tournant
-autour de la Terre sur une orbite elliptique avec les données initiales
-suivantes : 
-
-Position initiale du vaisseau spatial = $15 \times math.pow(10,6), 1 \times math.pow(10,6)$
-
-Vitesse initiale du vaisseau spatial = $2 \times math.pow(10,3), 4 \times math.pow(10,3)$
+autour de la Terre sur une orbite elliptique.
 
 ## Apollo 13
 
